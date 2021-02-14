@@ -3,11 +3,11 @@
 
 Functional analysis of predicted transcription factors (TFs)
 
-As pre-requirements please install: 
-conda : https://docs.anaconda.com/anaconda/install/ 
+As pre-requirements please install: \n
+conda : https://docs.anaconda.com/anaconda/install/ \n
 jupyter notebook: https://jupyter.org/install 
-pybedtools: https://daler.github.io/pybedtools/main.html 
-gprofiler: https://pypi.org/project/gprofiler-official/ 
+pybedtools: https://daler.github.io/pybedtools/main.html \n
+gprofiler: https://pypi.org/project/gprofiler-official/ \n
 
 We encourage you to use a UNIX-based system. If you run Windows please make sure to change the directories paths. 
 We encourage you to run the code cells separately to avoid long runtime for the plots.
