@@ -3,7 +3,7 @@
 
 Functional analysis of predicted transcription factors (TFs)
 
-The goal of this project is to develop a workflow to identify the potential target genes of predicteds TFs.
+The goal of this project is to develop a workflow to identify the potential target genes of predicted TFs.
 
 As pre-requirements please install:
 conda : https://docs.anaconda.com/anaconda/install/ 
