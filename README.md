@@ -1,13 +1,13 @@
-# transcription-factor-analysis
+# Transcription-factor-analysis
 
 
 Functional analysis of predicted transcription factors (TFs)
 
-As pre-requirements please install: \n
-conda : https://docs.anaconda.com/anaconda/install/ \n
+As pre-requirements please install:
+conda : https://docs.anaconda.com/anaconda/install/ 
 jupyter notebook: https://jupyter.org/install 
-pybedtools: https://daler.github.io/pybedtools/main.html \n
-gprofiler: https://pypi.org/project/gprofiler-official/ \n
+pybedtools: https://daler.github.io/pybedtools/main.html 
+gprofiler: https://pypi.org/project/gprofiler-official/
 
 We encourage you to use a UNIX-based system. If you run Windows please make sure to change the directories paths. 
 We encourage you to run the code cells separately to avoid long runtime for the plots.
@@ -23,5 +23,9 @@ To start the analysis you need 3 data files:
 - Annotation file in ".bed" format
 - Text file with transcription factors in ".txt" file
 - The script - "algorithms_epigenetic_script.ipynb"
-- The files asked for in Task 3-1 and 3-2 are /cut_interxection.bed and /GO_enrichment/combined.csv.
+- The files asked for in Task 3.1 and 3.2 are /cut_interxection.bed and /GO_enrichment/combined.csv.
+
+
+
+--in process--
 
