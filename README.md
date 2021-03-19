@@ -24,8 +24,8 @@ To start the analysis you need 3 data files:
 
 - Annotation file in ".bed" format
 - Text file with transcription factors in ".txt" file
-- The script - "algorithms_epigenetic_script.ipynb"
-- The files asked for in Task 3.1 and 3.2 are /cut_interxection.bed and /GO_enrichment/combined.csv.
+- The script - "tf_analysis.ipynb"
+- The files asked for futher analysis /cut_intersection.bed and /GO_enrichment/combined.csv.
 
 
 
