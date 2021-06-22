@@ -25,9 +25,4 @@ To start the analysis you need 3 data files:
 - Annotation file in ".bed" format
 - Text file with transcription factors in ".txt" file
 - The script - "tf_analysis.ipynb"
-- The files asked for futher analysis /cut_intersection.bed and /GO_enrichment/combined.csv.
-
-
-
---in process--
-
+- The files asked for futher analysis /cut_intersection.bed and /GO_enrichment/combined.csv
